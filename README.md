@@ -93,6 +93,7 @@ cp -r awesome-ascend-skills/npu-smi your-project/.agents/skills/
 | [diffusers-ascend-weight-prep](diffusers-ascend/diffusers-ascend-weight-prep/SKILL.md) | 开发 | Diffusers 权重准备：HuggingFace/ModelScope 模型下载、基于 config.json 生成假权重用于验证 |
 | [diffusers-ascend-pipeline](diffusers-ascend/diffusers-ascend-pipeline/SKILL.md) | 开发 | Diffusers Pipeline 推理：环境预检、通用推理（图像/视频）、内存优化、LoRA 集成 |
 | [ascend-dmi](ascend-dmi/SKILL.md) | 运维 | 昇腾 NPU 硬件管理与诊断：状态/温度/利用率查询、内存带宽测试、算力/功耗基准、压力测试、卡复位 |
+| [npu-docker-launcher](npu-docker-launcher/SKILL.md) | 运维 | NPU Docker 容器一键启动：自动配置设备挂载、网络、卷挂载和环境变量 |
 
 ---
 
