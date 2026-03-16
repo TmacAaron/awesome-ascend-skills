@@ -96,6 +96,7 @@ cp -r awesome-ascend-skills/npu-smi your-project/.agents/skills/
 | [npu-docker-launcher](npu-docker-launcher/SKILL.md) | 运维 | NPU Docker 容器一键启动：自动配置设备挂载、网络、卷挂载和环境变量 |
 | [remote-server-guide](remote-server-guide/SKILL.md) | 运维 | 远程服务器连接指南：SSH 多认证方式、Docker 容器管理、文件传输、故障排查 |
 | [vllm-ascend-server](vllm-ascend-server/SKILL.md) | 开发 | vLLM 推理服务部署：自动模型发现、量化检测、张量并行、graph/eager 模式、健康检查 |
+| [vllm-bench-serve](vllm-bench-serve/SKILL.md) | 测试 | vLLM 在线性能压测与自动寻优：单次/批量/SLO 约束搜索最优并发吞吐 |
 
 ---
 
