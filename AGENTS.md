@@ -7,7 +7,7 @@ Coding guidelines for the Awesome Ascend Skills repository.
 A **knowledge base repository** for Huawei Ascend NPU development, structured as flat AI Skills.
 
 
-**Primary Skills:** npu-smi, hccl-test, atc-model-converter, ascend-docker, msmodelslim, ais-bench, vllm-ascend, ascendc, torch_npu, ascend-dmi, npu-docker-launcher, remote-server-guide
+**Primary Skills:** npu-smi, hccl-test, atc-model-converter, ascend-docker, msmodelslim, ais-bench, vllm-ascend, ascendc, torch_npu, ascend-dmi, npu-docker-launcher, remote-server-guide, vllm-ascend-server
 
 ---
 
