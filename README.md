@@ -94,6 +94,7 @@ cp -r awesome-ascend-skills/npu-smi your-project/.agents/skills/
 | [diffusers-ascend-pipeline](diffusers-ascend/diffusers-ascend-pipeline/SKILL.md) | 开发 | Diffusers Pipeline 推理：环境预检、通用推理（图像/视频）、内存优化、LoRA 集成 |
 | [ascend-dmi](ascend-dmi/SKILL.md) | 运维 | 昇腾 NPU 硬件管理与诊断：状态/温度/利用率查询、内存带宽测试、算力/功耗基准、压力测试、卡复位 |
 | [npu-docker-launcher](npu-docker-launcher/SKILL.md) | 运维 | NPU Docker 容器一键启动：自动配置设备挂载、网络、卷挂载和环境变量 |
+| [remote-server-guide](remote-server-guide/SKILL.md) | 运维 | 远程服务器连接指南：SSH 多认证方式、Docker 容器管理、文件传输、故障排查 |
 
 ---
 
